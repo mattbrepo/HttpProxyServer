@@ -6,4 +6,4 @@ Super simple Http Proxy Server to be put between an application and another Prox
 **Start: 2012**
 
 ## Why
-Living inside a corporation network is not always easy. Sometimes you need to build the tool to survive!
+Living inside a corporation network is not always easy. Sometimes you need to build some tools to survive!
